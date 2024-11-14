@@ -8,7 +8,7 @@ I am a Software Engineer, and Cybersecurity blogger. I am very passionate about 
 
 
 - 💡 Fun fact: I am currently studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
-- 🌱 I am currently learning JavaScript,Python, Linux, and AWS Cloud Enginnering
+- 🌱 I am currently learning JavaScript,Python, Linux, AWS, Google cloud, Azure, docker, kubernetes, ansible, IAC, and lots more
 - 😊 I am currently seeking oppurtunities with open source projects, hackathons, internships, and entry-level jobs.
 - 💼 Job interests: Software Engineer, Cloud Engineer, or Infrastructure Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing recoverypastor@proton.me
