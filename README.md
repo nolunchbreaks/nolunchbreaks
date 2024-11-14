@@ -6,11 +6,11 @@ I am a Software Engineer, and Cybersecurity blogger. I am very passionate about 
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
+
 - 💡 Fun fact: I am currently studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
 - 🌱 I am currently learning JavaScript,Python, Linux, and AWS Cloud Enginnering
 - 😊 I am currently seeking oppurtunities with open source projects, hackathons, internships, and entry-level jobs.
-- 💼 Job interests: Software Engineer, Front Engineer, or Infrastructure Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Cloud Engineer, or Infrastructure Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing recoverypastor@proton.me
 - ✝️ I am also a Pastor at Recovery Church Movement and a Missionary
   
