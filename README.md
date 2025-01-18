@@ -10,7 +10,7 @@ I am a Software Engineer, and Cybersecurity blogger. I am very passionate about 
 - 🌱 JavaScript, Python, Linux, AWS, Google cloud, Azure, docker, kubernetes, ansible, IAC, and lots more
 - 😊 I am currently seeking oppurtunities with open source projects, hackathons, internships, and entry-level jobs.
 - 💼 Job interests: Software Engineer, Cloud Engineer, or Infrastructure Engineer (Intern or Junior level).
-- 📫  Contact me by emailing recoverypastor@proton.me
+- 📫  Contact me by emailing osagieanoluu22@gmail.com
 - ✝️ I am also a Pastor at Recovery Church Movement and a Missionary
   
 | ------------- | ------------- |
